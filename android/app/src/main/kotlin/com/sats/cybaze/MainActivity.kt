@@ -1,0 +1,6 @@
+package com.sats.cybaze
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
